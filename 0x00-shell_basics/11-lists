@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -l -a ./current ./parent_of_current ./boot
