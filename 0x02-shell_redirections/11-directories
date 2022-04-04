@@ -1,1 +1,2 @@
-VimCrypt~03!ücû×E7Íp]D55ûlß«sÚ§4Ð¶A±ñHån]æ…¯"ƒôg€h5)KTù<
+#!/bin/bash
+find . -type d ! -path . -print | wc -l
